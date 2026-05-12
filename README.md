@@ -1,2 +1,1 @@
-# MongoCompass
-Professional MongoCompass infrastructure with MongoCompass-optimized mongocompass-optimization and enterprise scalable-architecture capabilities
+.
